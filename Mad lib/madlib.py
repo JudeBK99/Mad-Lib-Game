@@ -1,0 +1,11 @@
+print("Hello, world")
+
+first_programme = input('Enter a programme name : ')
+tech_profession = input('Enter a tech profession name: ')
+cloth = input('Enter a piece of cloth name: ')
+person = input('Enter a person name: ')
+name= input('Enter a name: ')
+place = input('Enter a place name: ')
+verb = input('Enter a verb in ing form: ')
+name = input('Enter name: ')
+print('Hello ' + name + ', the programmer said the C.S ' + verb + ' and I had gone to ' + place +' to get training. The first programme we really done was a ' + first_programme + ' in but to be finally ' + tech_profession + '. when we saw softwarenginer work, it was exactly what I wanted. We both looked like ' + person + ' wearing ' + cloth + ' and ' + verb + ' --exactly what I had in mind')
